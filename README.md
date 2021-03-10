@@ -16,7 +16,8 @@ pip install discord.py
 pip install CoinGeckoAPI
 ```
 2. Open main.py and replace the token variable.
-3. Run it!
+3. You may have to replace the emojis inside the embeds, create your custom emoji in your own discord server then replace the emoji id.
+4. Run it!
 
 ## Credits
 Layout is inspired from the lamb0 discord bot.

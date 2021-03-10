@@ -5,6 +5,7 @@ A simple price checking discord Bot, gets data from CoinGecko
 ## Commands
 
 !cap <coin> - Get price and coin information on any coin in the CoinGeckoAPI
+
 ![image](https://user-images.githubusercontent.com/30761946/110569626-b3b19c00-818f-11eb-89e7-67c15d125e9f.png)
   
 ## Setup
